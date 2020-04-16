@@ -1,1 +1,1 @@
-# tk-glossary
+# Tech Karo Glossary
