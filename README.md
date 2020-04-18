@@ -76,25 +76,29 @@ Software development is the collective processes involved in creating software p
 SDLC methodologies support the design of software to meet a business need, the development of software to meet the specified design and the deployment of software to production and maintennance. There are a total of 7 steps in the SDLC lifecyle.The main focus of this SDLC phase is to ensure that needs continue to be met and that the system continues to perform as per the specifications mentioned by the client.
 
 ##### Requirement collection and analysis
-Requirements Gathering stage need teams to get detailed and precise requirements. This helps companies to finalize the necessary timeline to finish the work of that system.
+> Requirements Gathering stage need teams to get detailed and precise requirements. This helps companies to finalize the necessary timeline to finish the work of that system.
 
 ##### Feasibility study
-Once the requirement analysis phase is completed the next step is to define and document software needs. This process conducted with the help of 'Software Requirement Specification' document also known as 'SRS' document which states all requirements with clear details.
+> Once the requirement analysis phase is completed the next step is to define and document software needs. This process conducted with the help of 'Software Requirement Specification' document also known as 'SRS' document which states all requirements with clear details.
 
 ##### Software Design
-The system and software design documents are prepared as per the requirement specification document. This helps define overall system architecture.
+> The system and software design documents are prepared as per the requirement specification document. This helps define overall system architecture.
 
 ##### Programming
-In this phase, developers start build the entire system by writing code using the chosen programming language. In the coding phase, tasks are divided into units or modules and assigned to the various developers.
+> In this phase, developers start build the entire system by writing code using the chosen programming language. In the coding phase, tasks are divided into units or modules and assigned to the various developers.
 
 ##### Testing
-Once the software is complete, and it is deployed in the testing environment. The testing team starts testing the functionality of the entire system. 
+> Once the software is complete, and it is deployed in the testing environment. The testing team starts testing the functionality of the entire system. 
 
 ##### Installation/Deployment
+Once the software testing phase is over and no bugs or errors left in the system then the final deployment process starts.
 
 ##### Maintenance
-Once the system is deployed, and customers start using the developed system, following 3 activities occur i.e bug fixing, upgrade and enhacements.
+> Once the system is deployed, and customers start using the developed system, following 3 activities occur i.e bug fixing, upgrade and enhacements.
  
+### Web Development
+
+
 
 
 
