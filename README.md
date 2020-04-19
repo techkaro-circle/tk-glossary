@@ -91,9 +91,3 @@ On the server, you need to use a programming language to write the functions and
 #### Database
 Database is where you store information for your website. It is simply an organized collection of data, generally stored and accessed electronically from a computer system. It's some sort of tables of information stored in the applications to store applications data permanently(unless you delete it yourself). For example, in any games you add your name and when ever you open it it shows your previous score. The data (information) is stored in the database of the application. You can think it the hard drive of the software.
 
-
-
-
-
-
-
