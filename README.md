@@ -83,7 +83,7 @@ Back-end Development refers to the server-side development. In simple words it i
 The back-end, or server-side of web development, is made up of three main components: the server, a server-side programming language, and the database.
 
 #### Server
-The server is the computer where all the website files, the database, and other components are stored.
+A server is a computer that has specific programs and/or hardware which enables it to offer services to other computers (clients). There are different types and capabilities of servers. Think about transportation. We can think of transportation as anything that can move something or someone from one location to the other. A bicycle can move one person, a car can move four people etc. They are all modes of transport, but each has a different capacity. The same applies to servers. Servers are responsible for communicating request from the user and getting response from the database. Fo example when you login to your account, your request first reaches the server from where it goes to the database to fetch data.
 
 #### Programming language
 On the server, you need to use a programming language to write the functions and logic for your application. The server then compiles your code and conveys the result back to the user. There are many programming languages such as C#, Node js and PHP etc.
